@@ -14,6 +14,8 @@ public class Ejercicio001 {
 		byte edad=0;
 		@SuppressWarnings("unused")
 		boolean sexo=true;
+		@SuppressWarnings("unused")
+		boolean sexo=true;
 	}
 
 }
